@@ -18,6 +18,7 @@ pkg_version="1.1.0"
 pkg_deps=(core/node)
 pkg_build_deps=(
   core/bash
+  mgamini/sample-node-dependency
 )
 
 # Habitat provides you with a number of built-in "callbacks" to use
